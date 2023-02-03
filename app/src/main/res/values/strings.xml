@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">composearticle</string>
+    <string name="title_jeptack_compose_course">compose article</string>
+	<string name="compose_description">Article Description</string>
+	<string name="compose_long_description">long description</string>
+</resources>
